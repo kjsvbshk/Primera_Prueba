@@ -1,0 +1,525 @@
+Business Unit;Job Title;Full Name;Age;Hire Date
+Research & Development;Sr. Manger;Emily Davis;55;2016-04-08
+Speciality Products;Director;Luna Sanders;50;2006-10-26
+Manufacturing;Computer Systems Manager;Penelope Jordan;26;2019-09-27
+Corporate;Manager;Ruby Barnes;27;2020-07-01
+Speciality Products;Sr. Analyst;Madeline Walker;34;2018-06-13
+Manufacturing;Sr. Manger;Savannah Ali;36;2009-02-11
+Speciality Products;Controls Engineer;Camila Rogers;27;2021-10-21
+Research & Development;Sr. Manger;Everleigh Ng;51;2021-06-10
+Research & Development;Vice President;Isabella Xi;41;2013-03-13
+Research & Development;Director;Bella Powell;65;2002-03-04
+Speciality Products;Sr. Manger;Camila Silva;64;2003-12-01
+Manufacturing;Director;Eva Rivera;36;2021-04-02
+Corporate;Quality Engineer;Abigail Mejia;56;2005-02-05
+Research & Development;Analyst;Caroline Jenkins;27;2018-05-06
+Manufacturing;Enterprise Architect;Nora Brown;32;2014-02-11
+Manufacturing;Controls Engineer;Adeline Huang;34;2019-12-16
+Manufacturing;Technical Architect;Riley Padilla;35;2013-05-15
+Corporate;Enterprise Architect;Leah Pena;57;1994-01-03
+Speciality Products;Manager;Kennedy Foster;53;2013-11-23
+Research & Development;Sr. Manger;Sadie Washington;29;2019-05-24
+Research & Development;Director;Eva Coleman;37;2009-09-20
+Manufacturing;Director;Lucy Alexander;45;2014-10-29
+Research & Development;HRIS Analyst;Everleigh Washington;64;2001-10-20
+Manufacturing;Analyst II;Leilani Butler;27;2021-09-21
+Manufacturing;Sr. Manger;Peyton Huang;25;2021-07-02
+Research & Development;Director;Rylee Yu;36;2015-09-29
+Research & Development;Field Engineer;Piper Lewis;33;2018-12-22
+Corporate;Automation Engineer;Stella Alexander;52;2005-12-10
+Manufacturing;Operations Engineer;Addison Do;46;2001-05-30
+Manufacturing;Business Partner;Zoey Jackson;46;2008-08-21
+Corporate;Sr. Manger;Ava Ayala;55;2006-08-16
+Manufacturing;Sr. Analyst;Natalia Salazar;44;2019-01-02
+Corporate;Engineering Manager;Skylar Carrillo;44;2008-12-18
+Corporate;Analyst;Penelope Coleman;36;2021-08-27
+Corporate;Sr. Analyst;Piper Richardson;38;2008-01-27
+Speciality Products;HRIS Analyst;Everly Walker;41;2009-10-23
+Research & Development;Manager;Aurora Ali;30;2016-04-24
+Speciality Products;Vice President;Penelope Guerrero;43;2009-08-04
+Speciality Products;Cloud Infrastructure Architect;Anna Mehta;32;2020-01-05
+Speciality Products;Director;Jade Rojas;37;2019-01-28
+Speciality Products;Manager;Isla Espinoza;38;2021-11-16
+Research & Development;Test Engineer;Mila Hong;30;2017-05-22
+Research & Development;Director;Everleigh Fernandez;30;2016-05-22
+Manufacturing;Business Partner;Willow Mai;45;2003-12-17
+Corporate;Cloud Infrastructure Architect;Genesis Navarro;41;2009-04-28
+Corporate;Network Architect;Eliza Hernandez;48;2019-07-04
+Speciality Products;Sr. Manger;Everly Chow;33;2018-04-21
+Corporate;Analyst II;Amelia Salazar;26;2019-04-23
+Manufacturing;Sr. Manger;Mia Cheng;34;2015-04-22
+Speciality Products;Vice President;Rylee Yu;54;2011-07-10
+Manufacturing;Network Architect;Zoe Romero;32;2021-10-05
+Manufacturing;Vice President;Nevaeh Jones;31;2020-08-20
+Research & Development;Test Engineer;Samantha Adams;45;2013-04-22
+Speciality Products;Computer Systems Manager;Madeline Shin;48;2007-01-09
+Corporate;Director;Leilani Chow;27;2021-02-23
+Research & Development;Field Engineer;Ivy Soto;50;1997-10-23
+Corporate;Development Engineer;Aurora Simmons;51;1995-12-22
+Corporate;Sr. Account Representative;Gabriella Gupta;41;2005-02-15
+Research & Development;Director;Skylar Liu;29;2020-08-09
+Manufacturing;System Administrator ;Nova Coleman;44;2006-12-13
+Research & Development;Director;Evelyn Dinh;41;2018-08-10
+Manufacturing;Sr. Manger;Mia Lam;49;2006-04-18
+Manufacturing;Sr. Analyst;Scarlett Rodriguez;60;2007-02-24
+Corporate;Sr. Analyst;Cora Rivera;42;2021-01-02
+Manufacturing;Enterprise Architect;Sophia Huynh;55;2005-08-09
+Speciality Products;Analyst II;Athena Carrillo;39;2006-04-06
+Manufacturing;Manager;Vivian Lewis;65;2011-09-07
+Corporate;Analyst;Elena Vang;52;2019-02-19
+Corporate;Operations Engineer;Natalia Diaz;62;2006-10-12
+Corporate;Sr. Analyst;Mila Leung;39;2007-11-05
+Manufacturing;Systems Analyst;Ava Nelson;63;1992-04-01
+Corporate;Vice President;Isla Lai;37;2011-12-06
+Manufacturing;Director;Everleigh Espinoza;54;2018-01-22
+Research & Development;Analyst;Evelyn Jung;30;2021-02-14
+Corporate;Vice President;Sophie Silva;28;2017-07-06
+Manufacturing;Vice President;Kennedy Rahman;49;2003-02-28
+Research & Development;Automation Engineer;Nevaeh Kang;46;2021-01-10
+Speciality Products;Sr. Analyst;Hannah Nelson;35;2019-09-07
+Corporate;Vice President;Paisley Kang;61;2017-03-10
+Corporate;Sr. Manger;Genesis Perry;46;2013-07-18
+Research & Development;Network Architect;Lily Carter;54;1998-05-18
+Speciality Products;Sr. Analyst;Avery Bailey;49;1996-05-15
+Manufacturing;Enterprise Architect;Piper Cheng;62;2009-03-15
+Speciality Products;Network Architect;Skylar Watson;28;2021-10-08
+Speciality Products;Vice President;Camila Watson;32;2018-01-02
+Research & Development;Sr. Business Partner;Skylar Doan;58;1994-08-21
+Research & Development;Quality Engineer;Gianna Williams;27;2021-01-28
+Research & Development;Sr. Account Representative;Emma Brooks;30;2016-12-18
+Corporate;Vice President;Isla Wong;56;2014-03-16
+Research & Development;Sr. Manger;Everly Walker;62;1999-08-02
+Manufacturing;Sr. Business Partner;Mila Pena;45;2007-12-21
+Manufacturing;Director;Ava Garza;27;2018-06-25
+Manufacturing;Manager;Maria Griffin;59;2007-04-25
+Speciality Products;Vice President;Maria Hong;43;2005-07-31
+Manufacturing;Analyst;Sophie Ali;55;2002-03-28
+Manufacturing;IT Coordinator;Emma Hill;54;2016-12-27
+Speciality Products;Sr. Analyst;Leilani Yee;47;2017-07-12
+Manufacturing;Network Engineer;Charlotte Chu;50;2001-01-23
+Manufacturing;Account Representative;Ayla Ng;46;2004-03-20
+Corporate;Director;Aubrey Romero;49;1998-04-02
+Manufacturing;Vice President;Luna Liu;36;2014-02-22
+Manufacturing;Service Desk Analyst;Brooklyn Reyes;36;2019-12-19
+Corporate;Vice President;Hadley Parker;30;2016-09-21
+Corporate;Analyst;Sarah Ayala;47;2015-06-09
+Manufacturing;Development Engineer;Ella White;25;2020-01-20
+Speciality Products;Account Representative;Nova Herrera;45;2014-05-10
+Corporate;Sr. Analyst;Luna Simmons;28;2020-09-04
+Speciality Products;Vice President;Samantha Barnes;29;2017-01-05
+Manufacturing;Vice President;Skylar Bell;30;2018-03-06
+Manufacturing;Service Desk Analyst;Anna Zhu;48;2003-08-22
+Manufacturing;Analyst;Ella Hunter;51;2017-01-18
+Corporate;Sr. Analyst;Emery Hunter;28;2021-07-03
+Manufacturing;Cloud Infrastructure Architect;Sofia Parker;36;2014-05-30
+Research & Development;Director;Aria Xi;45;2002-03-01
+Corporate;Sr. Account Representative;Lucy Fong;40;2011-01-20
+Research & Development;Director;Vivian Barnes;51;2021-03-28
+Research & Development;Development Engineer;Melody Cooper;44;2009-09-04
+Corporate;Vice President;Kinsley Vega;33;2020-12-16
+Research & Development;Test Engineer;Emilia Rivera;42;2017-11-23
+Research & Development;Sr. Analyst;Penelope Johnson;34;2012-06-25
+Research & Development;Analyst II;Eva Figueroa;48;2014-05-14
+Corporate;Vice President;Cora Jiang;53;2008-04-30
+Manufacturing;Sr. Manger;Layla Torres;37;2013-02-24
+Manufacturing;Sr. Manger;Eleanor Chan;49;2001-04-02
+Research & Development;Director;Aria Xi;45;2002-03-01
+Manufacturing;Sr. Manger;Sarah Daniels;55;2011-01-09
+Speciality Products;Engineering Manager;Aria Castro;45;2014-03-14
+Corporate;Enterprise Architect;Autumn Joseph;39;2018-05-09
+Speciality Products;Service Desk Analyst;Evelyn Liang;40;2013-06-26
+Speciality Products;Director;Zoe Rodriguez;65;2004-05-23
+Corporate;Vice President;Isabella Soto;27;2021-12-15
+Manufacturing;Sr. Manger;Eva Jenkins;55;2004-11-10
+Research & Development;Vice President;Samantha Foster;34;2019-07-27
+Speciality Products;Director;Jade Li;47;2012-10-26
+Speciality Products;Vice President;Kinsley Acosta;32;2020-07-22
+Manufacturing;Sr. Manger;Clara Kang;39;2017-03-25
+Speciality Products;Sr. Analyst;Harper Alexander;26;2019-10-14
+Manufacturing;Computer Systems Manager;Charlotte Ruiz;32;2017-10-02
+Research & Development;Director;Everleigh Jiang;58;2003-05-14
+Research & Development;Field Engineer;Audrey Smith;58;1995-10-27
+Research & Development;Vice President;Emery Acosta;42;2013-09-11
+Research & Development;Analyst;Nora Santiago;55;1996-06-26
+Manufacturing;Sr. Manger;Caroline Herrera;45;2004-08-19
+Manufacturing;Systems Analyst;Avery Yee;34;2016-05-22
+Manufacturing;Analyst;Maria Chin;65;2013-09-26
+Corporate;HRIS Analyst;Eva Garcia;31;2021-04-11
+Corporate;Sr. Analyst;Anna Molina;41;2016-06-12
+Manufacturing;Technical Architect;Isla Han;58;2005-06-18
+Research & Development;Analyst;Lillian Park;40;2021-02-24
+Research & Development;Director;Kennedy Zhang;63;2000-10-27
+Speciality Products;Engineering Manager;Julia Pham;65;2006-03-16
+Corporate;Director;Hailey Shin;57;2016-10-24
+Manufacturing;Manager;Natalia Owens;31;2021-01-18
+Corporate;IT Systems Architect;Maria He;45;2010-08-28
+Speciality Products;Account Representative;Jade Yi;47;2015-07-10
+Research & Development;Test Engineer;Quinn Xiong;55;2013-09-08
+Corporate;Development Engineer;Autumn Reed;37;2017-09-17
+Research & Development;Sr. Manger;Eleanor Li;64;2003-12-07
+Corporate;Sr. Manger;Ellie Chung;59;2008-08-29
+Corporate;Solutions Architect;Violet Hall;40;2010-12-10
+Manufacturing;Sr. Manger;Ayla Brown;49;2013-04-15
+Research & Development;Analyst;Lillian Park;40;2021-02-24
+Research & Development;Director;Kennedy Zhang;63;2000-10-27
+Speciality Products;Engineering Manager;Julia Pham;65;2006-03-16
+Manufacturing;Vice President;Emery Mitchell;48;2018-06-02
+Speciality Products;Sr. Manger;Sophia Ahmed;30;2015-06-13
+Corporate;Operations Engineer;Sofia Dinh;55;1995-08-04
+Corporate;Quality Engineer;Piper Patterson;45;2019-06-19
+Speciality Products;Computer Systems Manager;Cora Evans;45;2018-03-26
+Research & Development;Analyst II;Melody Ho;55;2007-12-02
+Speciality Products;Business Partner;Scarlett Figueroa;34;2016-10-21
+Research & Development;Systems Analyst;Madeline Hoang;28;2019-10-25
+Manufacturing;Director;Ruby Medina;50;2018-12-18
+Speciality Products;Development Engineer;Rylee Dinh;35;2017-02-10
+Speciality Products;Director;Caroline Owens;26;2021-07-26
+Manufacturing;Computer Systems Manager;Kennedy Do;42;2005-10-15
+Research & Development;Development Engineer;Jade Acosta;47;2015-08-29
+Manufacturing;Quality Engineer;Mila Vasquez;60;1998-07-16
+Corporate;Analyst;Allison Ayala;36;2009-06-30
+Speciality Products;Manager;Allison Medina;55;2010-04-29
+Research & Development;Vice President;Maria Wilson;51;1996-06-14
+Corporate;Vice President;Everly Coleman;48;2015-02-18
+Research & Development;Account Representative;Isla Chavez;29;2018-05-19
+Manufacturing;Technical Architect;Hannah Gomez;25;2021-05-11
+Corporate;Analyst;Allison Ayala;36;2009-06-30
+Research & Development;Director;Anna Gutierrez;59;2003-04-15
+Research & Development;Director;Anna Gutierrez;59;2003-04-15
+Manufacturing;Service Desk Analyst;Liliana Do;30;2019-03-29
+Corporate;Sr. Manger;Raelynn Gupta;48;2001-09-10
+Research & Development;System Administrator ;Genesis Xiong;51;2012-02-25
+Manufacturing;Analyst II;Emily Contreras;56;1992-06-15
+Manufacturing;Vice President;Hailey Lai;52;2012-07-23
+Speciality Products;Analyst II;Vivian Guzman;53;2002-02-09
+Corporate;Director;Hadley Contreras;60;2017-01-04
+Research & Development;Director;Grace Campos;37;2008-03-21
+Research & Development;Field Engineer;Autumn Ortiz;30;2017-12-17
+Corporate;Enterprise Architect;Mia Wu;45;2013-08-25
+Research & Development;Sr. Manger;Julia Luong;55;2006-06-20
+Manufacturing;Sr. Analyst;Eleanor Delgado;33;2014-04-27
+Manufacturing;Network Architect;Addison Roberts;65;2018-05-14
+Research & Development;Sr. Manger;Camila Li;60;2010-07-24
+Speciality Products;Field Engineer;Josephine Salazar;36;2016-03-14
+Corporate;Sr. Analyst;Genesis Hu;46;2002-01-15
+Speciality Products;Manager;Mila Juarez;38;2017-09-21
+Research & Development;Engineering Manager;Paisley Hunter;61;2010-01-15
+Speciality Products;Network Architect;Everleigh White;59;2017-10-20
+Speciality Products;Technical Architect;Penelope Choi;49;2010-09-10
+Manufacturing;Director;Piper Sun;64;2011-02-14
+Research & Development;Manager;Lucy Johnson;57;2020-04-27
+Research & Development;Sr. Manger;Hadley Guerrero;49;2004-01-14
+Speciality Products;Sr. Manger;Ivy Daniels;41;2008-10-26
+Corporate;Sr. Manger;Caroline Phan;41;2004-03-14
+Research & Development;Sr. Manger;Madeline Coleman;51;2006-04-28
+Research & Development;Automation Engineer;Alice Young;46;2008-01-24
+Manufacturing;Business Partner;Caroline Alexander;42;2020-09-18
+Manufacturing;IT Systems Architect;Serenity Bailey;55;2011-11-21
+Manufacturing;Vice President;Elena Tan;50;2008-10-13
+Manufacturing;Account Representative;Eliza Adams;26;2021-11-21
+Manufacturing;Vice President;Alice Xiong;55;2018-09-02
+Research & Development;Quality Engineer;Isla Yoon;50;2013-05-10
+Manufacturing;Solutions Architect;Emma Perry;28;2018-01-22
+Research & Development;Sr. Manger;Riley Marquez;39;2019-10-18
+Speciality Products;Sr. Manger;Caroline Hu;31;2019-08-18
+Speciality Products;Director;Madison Kumar;55;2010-10-17
+Speciality Products;Manager;Maya Ngo;55;2012-10-20
+Corporate;Analyst;Alice Soto;56;1995-04-13
+Speciality Products;Director;Olivia Harris;63;2020-06-14
+Corporate;Analyst;Genesis Banks;63;2012-03-16
+Corporate;Sr. Manger;Victoria Johnson;55;2004-05-28
+Manufacturing;Director;Eloise Griffin;55;1995-10-29
+Speciality Products;IT Coordinator;Clara Huynh;39;2020-11-18
+Manufacturing;Sr. Manger;Sophie Vang;25;2021-09-14
+Corporate;Cloud Infrastructure Architect;Jade Hunter;42;2020-02-05
+Manufacturing;System Administrator ;Lydia Williams;35;2014-10-29
+Research & Development;Business Partner;Emery Chang;45;2000-08-17
+Research & Development;Director;Savannah He;52;1996-02-14
+Speciality Products;Analyst;Samantha Woods;56;2019-12-25
+Speciality Products;Manager;Amelia Choi;43;2006-06-11
+Manufacturing;Network Administrator;Luna Taylor;47;2018-07-28
+Corporate;Analyst;Emma Cao;27;2019-08-24
+Speciality Products;Sr. Analyst;Natalie Hwang;63;1999-12-31
+Corporate;Cloud Infrastructure Architect;Adeline Yang;53;2011-07-20
+Manufacturing;Vice President;Allison Roberts;54;2000-08-19
+Speciality Products;Engineering Manager;Eliana Grant;64;1994-06-20
+Research & Development;Director;Mila Soto;65;2008-10-07
+Research & Development;Computer Systems Manager;Gabriella Johnson;42;2006-03-01
+Corporate;Sr. Analyst;Bella Lopez;32;2013-11-12
+Speciality Products;Technical Architect;Leilani Baker;59;2010-04-04
+Manufacturing;Quality Engineer;Harper Chin;50;2002-07-09
+Speciality Products;Analyst;Madelyn Mehta;64;2005-01-28
+Speciality Products;Field Engineer;Athena Vasquez;59;2014-09-16
+Speciality Products;Field Engineer;Everleigh Nunez;42;2021-02-05
+Research & Development;Sr. Business Partner;Aubrey Yoon;60;2005-11-11
+Corporate;Service Desk Analyst;Ella Nguyen;60;2004-02-10
+Manufacturing;System Administrator ;Athena Jordan;42;2011-02-19
+Research & Development;Sr. Analyst;Zoe Sanchez;53;2004-12-23
+Manufacturing;Business Partner;Liliana Soto;58;2010-10-12
+Corporate;Sr. Manger;Julia Morris;60;2008-10-18
+Manufacturing;Enterprise Architect;Ava Ortiz;53;2004-07-20
+Research & Development;Sr. Manger;Lillian Chen;25;2020-04-09
+Corporate;Field Engineer;Claire Jones;39;2019-03-12
+Manufacturing;Sr. Analyst;Nova Hill;56;2018-03-10
+Manufacturing;Development Engineer;Peyton Cruz;30;2016-05-26
+Speciality Products;Vice President;Naomi Zhao;45;2021-09-22
+Corporate;Analyst;Rylee Bui;55;2011-12-22
+Corporate;Sr. Manger;Brooklyn Collins;59;2018-10-27
+Speciality Products;Manager;Samantha Aguilar;46;2010-04-24
+Speciality Products;Sr. Account Representative;Madeline Acosta;26;2021-02-09
+Manufacturing;Sr. Analyst;Jade Figueroa;33;2012-05-14
+Corporate;Manager;Genesis Hunter;48;1999-04-22
+Corporate;Vice President;Ella Huang;45;2016-02-28
+Research & Development;IT Systems Architect;Lyla Alvarez;55;1994-08-30
+Speciality Products;Automation Engineer;Kinsley Collins;28;2018-11-14
+Manufacturing;IT Systems Architect;Brooklyn Salazar;44;2011-03-01
+Research & Development;Vice President;Scarlett Jenkins;53;2011-11-09
+Corporate;Sr. Manger;Melody Chin;43;2006-10-15
+Corporate;Vice President;Eloise Alexander;28;2018-01-21
+Corporate;Manager;Hailey Xi;52;2021-11-19
+Speciality Products;Manager;Hannah King;31;2014-10-07
+Speciality Products;Director;Nora Park;29;2017-06-28
+Speciality Products;Sr. Analyst;Audrey Hwang;45;2020-06-17
+Speciality Products;Analyst II;Ella Jenkins;52;2019-12-20
+Speciality Products;Controls Engineer;Peyton Owens;48;2014-09-25
+Speciality Products;Test Engineer;Alice Lopez;48;2009-06-27
+Corporate;Director;Naomi Xi;53;2002-02-17
+Corporate;Sr. Manger;Skylar Ayala;55;2017-02-06
+Speciality Products;Account Representative;Lydia Huynh;45;2000-08-16
+Research & Development;HRIS Analyst;Hazel Cortez;52;2021-04-18
+Manufacturing;Analyst II;Everleigh Adams;33;2020-03-14
+Corporate;Solutions Architect;Layla Salazar;59;2014-03-19
+Corporate;Manager;Willow Chen;50;2012-09-03
+Manufacturing;Director;Penelope Griffin;61;2021-01-23
+Corporate;Director;Lillian Romero;27;2018-12-07
+Speciality Products;Sr. Manger;Stella Wu;35;2014-02-20
+Corporate;Sr. Business Partner;Mila Roberts;30;2017-01-26
+Speciality Products;Sr. Analyst;Raelynn Ma;33;2015-10-08
+Research & Development;Test Engineer;Everleigh Shah;36;2018-12-14
+Speciality Products;Sr. Manger;Chloe Salazar;45;2011-05-22
+Speciality Products;Sr. Manger;Layla Scott;48;2010-07-30
+Corporate;Director;Leah Khan;36;2010-09-13
+Manufacturing;Manager;Hailey Dang;64;2019-09-21
+Speciality Products;Director;Amelia Bui;46;2020-10-21
+Manufacturing;Account Representative;Elena Her;62;2006-09-17
+Research & Development;Operations Engineer;Amelia Kaur;30;2015-11-14
+Corporate;Analyst II;Autumn Gonzales;34;2012-06-06
+Manufacturing;Director;Melody Valdez;28;2021-01-25
+Corporate;Vice President;Caroline Nelson;36;2014-01-11
+Corporate;Sr. Manger;Ellie Guerrero;29;2020-07-13
+Speciality Products;Director;Genesis Zhu;34;2020-07-20
+Manufacturing;HRIS Analyst;Savannah Park;44;2009-01-28
+Research & Development;Sr. Manger;Sofia Vu;52;2017-09-05
+Manufacturing;Analyst;Ruby Choi;40;2018-12-06
+Speciality Products;Manager;Lily Pena;55;2010-02-24
+Research & Development;Sr. Manger;Lucy Figueroa;45;2016-01-10
+Speciality Products;Solutions Architect;Allison Espinoza;45;2020-04-16
+Manufacturing;Sr. Manger;Naomi Chu;46;2004-02-29
+Speciality Products;Manager;Eloise Pham;45;2011-10-20
+Speciality Products;Analyst;Valentina Davis;33;2014-04-13
+Speciality Products;Analyst;Brooklyn Daniels;64;2003-02-10
+Manufacturing;Sr. Analyst;Paisley Gomez;57;2007-10-02
+Manufacturing;Director;Madison Li;35;2017-03-06
+Manufacturing;Analyst;Everleigh Simmons;55;2021-04-16
+Speciality Products;System Administrator ;Charlotte Vo;57;2014-01-10
+Speciality Products;Vice President;Alice Thompson;48;2007-04-25
+Manufacturing;Systems Analyst;Peyton Garza;53;2004-08-15
+Manufacturing;Analyst II;Nora Nelson;41;2007-01-09
+Manufacturing;Director;Athena Vu;63;2007-03-06
+Research & Development;Analyst;Ruby Washington;65;2011-06-17
+Manufacturing;Sr. Manger;Bella Butler;33;2019-10-25
+Manufacturing;Director;Kinsley Henry;45;2008-02-29
+Research & Development;Engineering Manager;Kennedy Romero;37;2018-12-27
+Speciality Products;Analyst II;Zoe Do;60;2014-01-08
+Research & Development;System Administrator ;Anna Han;65;2003-05-08
+Manufacturing;Sr. Analyst;Leilani Sharma;43;2014-01-23
+Speciality Products;Manager;Nova Williams;61;2010-04-25
+Speciality Products;Director;Scarlett Hill;45;2018-04-22
+Speciality Products;Vice President;Elena Patterson;38;2018-11-09
+Corporate;Director;Madison Nelson;27;2021-07-16
+Corporate;Analyst II;Emery Ford;39;2017-04-18
+Corporate;Technical Architect;Paisley Trinh;57;1992-05-04
+Manufacturing;Analyst II;Harper Phan;45;2016-12-07
+Manufacturing;Cloud Infrastructure Architect;Madeline Allen;30;2020-02-03
+Speciality Products;Sr. Manger;Isla Guzman;28;2019-07-06
+Manufacturing;Controls Engineer;Hailey Foster;55;2021-03-21
+Research & Development;Vice President;Autumn Leung;25;2021-11-15
+Corporate;Manager;Aria Roberts;38;2015-08-12
+Speciality Products;Sr. Business Partner;Madeline Garcia;45;2019-04-26
+Research & Development;Account Representative;Eliana Turner;65;2000-09-29
+Corporate;Sr. Analyst;Penelope Gonzalez;52;1994-10-16
+Corporate;Controls Engineer;Mila Allen;56;2015-10-14
+Manufacturing;Analyst II;Emilia Chu;48;2003-06-24
+Corporate;Vice President;Emily Clark;36;2020-01-13
+Research & Development;Account Representative;Emery Do;40;2018-03-16
+Manufacturing;Account Representative;Autumn Thao;63;2017-09-26
+Corporate;Manager;Naomi Coleman;29;2016-11-02
+Manufacturing;Director;Cora Zheng;27;2018-01-03
+Corporate;Technical Architect;Ayla Daniels;53;1997-04-23
+Manufacturing;Manager;Allison Daniels;37;2020-04-14
+Speciality Products;Analyst;Samantha Rogers;28;2020-01-17
+Corporate;Sr. Manger;Hailey Watson;31;2017-01-20
+Speciality Products;Vice President;Willow Woods;28;2021-07-25
+Speciality Products;Director;Paisley Hall;41;2010-05-21
+Research & Development;Sr. Analyst;Allison Leung;62;2020-05-18
+Corporate;Vice President;Hannah Mejia;47;1999-03-13
+Speciality Products;Analyst;Elizabeth Huang;62;2002-09-20
+Manufacturing;Analyst;Abigail Garza;33;2018-05-27
+Research & Development;Director;Raelynn Lu;27;2020-05-26
+Speciality Products;Sr. Manger;Lydia Espinoza;29;2020-05-15
+Corporate;Vice President;Adeline Thao;54;2007-09-05
+Manufacturing;Analyst;Kinsley Dixon;28;2019-05-25
+Research & Development;Analyst;Natalia Vu;54;2006-12-29
+Manufacturing;Manager;Julia Mai;50;2012-03-11
+Research & Development;Manager;Camila Evans;55;1992-12-20
+Speciality Products;Vice President;Everly Lai;52;1998-04-01
+Corporate;Account Representative;Vivian Hunter;26;2019-08-21
+Speciality Products;Solutions Architect;Lucy Avila;43;2010-04-22
+Research & Development;Test Engineer;Eliana Li;63;2018-05-07
+Corporate;Manager;Julia Sandoval;42;2017-11-19
+Manufacturing;Business Partner;Kennedy Vargas;45;2005-10-14
+Speciality Products;Director;Raelynn Hong;28;2019-12-11
+Manufacturing;Vice President;Lyla Yoon;38;2012-12-13
+Corporate;Sr. Manger;Hannah White;62;2009-01-30
+Speciality Products;Development Engineer;Audrey Lee;51;2017-02-11
+Research & Development;Enterprise Architect;Eliza Chen;36;2016-04-29
+Research & Development;Sr. Business Partner;Lyla Chen;45;2019-04-26
+Corporate;Engineering Manager;Emily Doan;32;2014-12-04
+Speciality Products;Development Engineer;Ivy Tang;48;2012-05-03
+Manufacturing;Computer Systems Manager;Eva Alvarado;46;2017-04-24
+Research & Development;Operations Engineer;Abigail Vang;40;2016-09-09
+Manufacturing;Director;Claire Adams;61;1997-08-19
+Manufacturing;Manager;Camila Cortez;29;2021-05-09
+Speciality Products;Vice President;Natalia Santos;45;2019-02-25
+Speciality Products;Sr. Analyst;Samantha Chavez;53;2017-01-09
+Research & Development;Enterprise Architect;Avery Grant;49;2014-03-05
+Corporate;Director;Penelope Fong;60;2004-05-14
+Research & Development;Quality Engineer;Vivian Thao;45;2015-04-23
+Speciality Products;Sr. Manger;Eva Estrada;45;2018-07-24
+Speciality Products;Field Engineer;Emma Luna;52;2008-03-25
+Manufacturing;Sr. Business Partner;Charlotte Wu;63;2007-05-02
+Research & Development;Sr. Account Representative;Vivian Chu;46;2021-01-17
+Manufacturing;Sr. Analyst;Amelia Bell;53;2017-08-05
+Corporate;Manager;Addison Mehta;27;2018-09-15
+Manufacturing;Business Partner;Everly Lin;25;2021-03-15
+Speciality Products;Sr. Manger;Lyla Stewart;43;2015-03-27
+Manufacturing;IT Coordinator;Brooklyn Ruiz;61;2014-08-10
+Research & Development;Director;Skylar Evans;42;2009-06-04
+Corporate;Field Engineer;Hazel Griffin;32;2015-11-09
+Research & Development;Manager;Leah Patterson;33;2012-06-11
+Manufacturing;Operations Engineer;Avery Sun;45;2004-03-11
+Manufacturing;Enterprise Architect;Isabella Bui;36;2014-11-21
+Manufacturing;Account Representative;Valentina Moua;37;2015-11-10
+Corporate;Analyst II;Quinn Trinh;42;2010-05-09
+Speciality Products;Sr. Account Representative;Caroline Nelson;60;1997-07-30
+Manufacturing;IT Coordinator;Leah Bryant;55;2004-04-30
+Manufacturing;Development Engineer;Anna Han;29;2019-11-09
+Manufacturing;Network Architect;Ariana Kim;33;2014-06-29
+Corporate;Analyst;Alice Tran;39;2014-07-29
+Research & Development;Manager;Hailey Song;37;2016-08-23
+Speciality Products;Manager;Lydia Morales;51;2013-06-14
+Research & Development;Director;Grace Sun;25;2021-04-17
+Manufacturing;Field Engineer;Skylar Shah;42;2012-04-27
+Research & Development;Sr. Business Partner;Riley Ramirez;52;1999-09-13
+Research & Development;Analyst II;Sophie Owens;30;2015-03-05
+Speciality Products;Operations Engineer;Addison Perez;29;2020-09-25
+Corporate;Vice President;Hadley Dang;47;2021-12-26
+Speciality Products;Technical Architect;Madison Her;56;1996-06-22
+Speciality Products;Director;Savannah Singh;53;1997-06-20
+Manufacturing;Sr. Manger;Nevaeh Hsu;32;2017-04-14
+Speciality Products;Sr. Analyst;Sadie Patterson;38;2020-07-24
+Manufacturing;Engineering Manager;Penelope Rodriguez;49;2016-03-12
+Manufacturing;Sr. Analyst;Emily Lau;35;2019-03-18
+Corporate;Network Engineer;Sophie Oh;29;2017-11-09
+Manufacturing;Solutions Architect;Chloe Allen;64;2004-07-08
+Speciality Products;Manager;Nova Hsu;32;2017-01-03
+Research & Development;Manager;Gianna Ha;55;2005-02-08
+Manufacturing;Cloud Infrastructure Architect;Lillian Gonzales;43;2009-03-13
+Speciality Products;Sr. Manger;Audrey Patel;37;2011-04-24
+Manufacturing;Technical Architect;Brooklyn Cho;45;2002-07-08
+Manufacturing;Sr. Manger;Piper Ramos;49;1996-04-02
+Speciality Products;Enterprise Architect;Eleanor Williams;61;2005-02-09
+Corporate;Quality Engineer;Melody Grant;41;2005-10-07
+Speciality Products;Sr. Manger;Paisley Sanders;55;2001-03-27
+Manufacturing;System Administrator ;Josephine Richardson;57;1996-02-18
+Research & Development;Manager;Olivia Gray;42;2015-09-19
+Corporate;Controls Engineer;Emery Doan;25;2021-06-23
+Corporate;Controls Engineer;Caroline Perez;29;2018-01-14
+Speciality Products;Manager;Genesis Woods;33;2013-08-21
+Manufacturing;Cloud Infrastructure Architect;Ruby Sun;50;2021-09-06
+Speciality Products;Solutions Architect;Nevaeh James;45;2017-11-03
+Corporate;Sr. Manger;Vivian Espinoza;52;2006-10-05
+Research & Development;Business Partner;Eliana Allen;56;2009-08-20
+Research & Development;Account Representative;Hailey Yee;54;2021-03-16
+Speciality Products;Network Architect;Sofia Trinh;45;2006-12-18
+Speciality Products;IT Systems Architect;Layla Collins;26;2021-03-11
+Speciality Products;Manager;Naomi Washington;51;2020-03-13
+Research & Development;Director;Bella Holmes;35;2017-06-26
+Corporate;Vice President;Hailey Sanchez;32;2014-02-05
+Research & Development;Sr. Manger;Sofia Yoon;37;2011-01-17
+Research & Development;Analyst II;Alice Mehta;45;2019-04-02
+Research & Development;Analyst II;Caroline Santos;25;2020-07-12
+Manufacturing;HRIS Analyst;Lily Henderson;61;2011-05-20
+Manufacturing;Manager;Hannah Martinez;65;2006-09-07
+Speciality Products;Computer Systems Manager;Eliza Zheng;48;2014-04-20
+Speciality Products;Sr. Manger;Hazel Young;30;2017-08-13
+Corporate;Controls Engineer;Clara Sanchez;47;2018-10-02
+Manufacturing;Vice President;Claire Romero;37;2011-07-21
+Speciality Products;Network Architect;Riley Rojas;36;2021-01-21
+Research & Development;Systems Analyst;Hadley Ford;52;2005-02-23
+Research & Development;Business Partner;Hazel Alvarez;62;2014-04-19
+Manufacturing;Network Administrator;Isabella Bailey;36;2010-08-23
+Speciality Products;Business Partner;Hadley Yee;31;2018-03-12
+Speciality Products;Business Partner;Julia Doan;53;2017-09-07
+Speciality Products;Solutions Architect;Eloise Trinh;39;2020-04-22
+Corporate;HRIS Analyst;Emily Gupta;44;2006-02-23
+Manufacturing;Sr. Manger;Hailey Lai;42;2011-03-18
+Speciality Products;Director;Leilani Thao;38;2007-05-30
+Research & Development;Account Representative;Madeline Watson;40;2009-05-27
+Research & Development;Analyst;Peyton Walker;43;2019-07-13
+Corporate;Analyst;Peyton Vasquez;26;2019-01-24
+Manufacturing;Analyst II;Charlotte Baker;29;2016-11-17
+Speciality Products;Director;Elena Mendoza;27;2018-10-24
+Manufacturing;Cloud Infrastructure Architect;Nova Lin;33;2017-10-21
+Research & Development;Controls Engineer;Ivy Desai;59;2001-04-09
+Speciality Products;Director;Josephine Acosta;40;2020-09-20
+Research & Development;Analyst II;Nora Nunez;45;2012-08-06
+Speciality Products;Manager;Madelyn Chan;64;2003-05-21
+Research & Development;Director;Mia Herrera;43;2014-10-16
+Research & Development;Enterprise Architect;Peyton Harris;45;2009-04-05
+Corporate;Sr. Manger;Avery Dominguez;27;2019-09-13
+Speciality Products;Sr. Manger;Grace Carter;25;2021-03-17
+Corporate;Sr. Manger;Sadie Lee;65;2000-10-24
+Research & Development;Manager;Charlotte Chang;50;2000-05-07
+Corporate;Director;Natalie Carter;64;2012-12-21
+Manufacturing;Manager;Elena Richardson;34;2014-10-03
+Speciality Products;Vice President;Emilia Bailey;41;2012-08-09
+Speciality Products;Director;Kinsley Martinez;52;1993-08-28
+Manufacturing;Cloud Infrastructure Architect;Paisley Bryant;37;2016-04-27
+Speciality Products;Sr. Manger;Eliza Liang;36;2010-03-11
+Corporate;Manager;Zoe Zhou;61;2009-10-06
+Research & Development;Account Representative;Hailey Hong;33;2021-01-22
+Speciality Products;Computer Systems Manager;Gabriella Zhu;36;2014-11-29
+Corporate;Director;Samantha Vargas;53;2006-07-21
+Manufacturing;Sr. Manger;Nora Le;53;1997-04-12
+Manufacturing;Director;Alice Roberts;54;1994-09-26
+Manufacturing;Sr. Analyst;Stella Lai;44;2021-04-28
+Speciality Products;Network Architect;Penelope Silva;36;2016-11-03
+Research & Development;Development Engineer;Eleanor Chau;37;2020-03-08
+Research & Development;Network Administrator;Isabella Scott;58;2016-04-26
+Corporate;Network Administrator;Madison Hunter;40;2012-02-05
+Speciality Products;Controls Engineer;Maya Chan;37;2013-02-13
+Manufacturing;Manager;Sofia Fernandez;44;2005-10-17
+Speciality Products;Manager;Hannah Hoang;25;2021-12-15
+Speciality Products;Sr. Analyst;Violet Garcia;35;2017-01-10
+Speciality Products;Vice President;Aaliyah Mai;57;2016-11-11
+Corporate;Director;Maria Sun;25;2021-12-19
+Research & Development;Sr. Manger;Madelyn Scott;46;2002-01-09
+Corporate;Field Engineer;Emery Zhang;45;2012-02-28
+Speciality Products;Director;Riley Washington;39;2007-04-29
+Manufacturing;Vice President;Raelynn Rios;43;2016-08-21
+Manufacturing;Director;Audrey Richardson;46;2018-10-06
+Corporate;Systems Analyst;Scarlett Kumar;55;2009-01-07
+Speciality Products;Analyst;Lillian Khan;44;2010-05-31
+Speciality Products;Sr. Analyst;Lily Nguyen;33;2012-01-28
+Corporate;Vice President;Sofia Cheng;63;2020-07-26
